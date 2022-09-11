@@ -18,6 +18,7 @@ Tiffany Math Class Schedule
 | $8/23/22$ | understanding double derivative $a,v,s$ |[minima & maxima ](https://www.mathsisfun.com/calculus/maxima-minima.html)|
 | $8/25/22$ | derivative Rules |[Multi-rules for do derivatives ](https://www.mathsisfun.com/calculus/derivatives-rules.html)|
 | $9/2/22$ | more derivative Rules |[Multi-rules for do derivatives ](https://www.mathsisfun.com/calculus/derivatives-rules.html)|
+| $9/9/22$ | more derivative Rules |[Multi-rules for do derivatives ](https://www.mathsisfun.com/calculus/derivatives-rules.html)|
 
 
 

@@ -19,7 +19,7 @@ Tiffany Math Class Schedule
 | $8/25/22$ | derivative Rules |[Multi-rules for do derivatives ](https://www.mathsisfun.com/calculus/derivatives-rules.html)|
 | $9/2/22$ | more derivative Rules |[Multi-rules for do derivatives ](https://www.mathsisfun.com/calculus/derivatives-rules.html)|
 | $9/9/22$ | more derivative Rules |[Multi-rules for do derivatives ](https://www.mathsisfun.com/calculus/derivatives-rules.html)|
-
+| $9/16/22$ | Trigonometry Rules |[Practice](https://www.mathsisfun.com/algebra/trigonometry-index.html)|
 
 
 

@@ -20,7 +20,8 @@ Tiffany Math Class Schedule
 | $9/2/22$ | more derivative Rules |[Multi-rules for do derivatives ](https://www.mathsisfun.com/calculus/derivatives-rules.html)|
 | $9/9/22$ | more derivative Rules |[Multi-rules for do derivatives ](https://www.mathsisfun.com/calculus/derivatives-rules.html)|
 | $9/16/22$ | Trigonometry Rules |[Practice](https://www.mathsisfun.com/algebra/trigonometry-index.html)|
-| $9/23/22$ | Trigonometry Rules |[Practice 1](https://www.mathsisfun.com/rational-numbers.html) [Practice 2](https://www.mathsisfun.com/numbers/real-numbers.html)|
+| $9/23/22$ | Numbers |[Practice 1](https://www.mathsisfun.com/rational-numbers.html) [Practice 2](https://www.mathsisfun.com/numbers/real-numbers.html)|
+| $9/25/22$ | Slove and Plot ODEs in Python |[Study Note](https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations)|
 
 
 

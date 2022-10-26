@@ -22,6 +22,8 @@ Tiffany Math Class Schedule
 | $9/16/22$ | Trigonometry Rules |[Practice](https://www.mathsisfun.com/algebra/trigonometry-index.html)|
 | $9/23/22$ | Numbers |[Practice 1](https://www.mathsisfun.com/rational-numbers.html) [Practice 2](https://www.mathsisfun.com/numbers/real-numbers.html)|
 | $9/25/22$ | Slove and Plot ODEs in Python |[Study Note](https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations)|
+| $10/16/22$ | Review Derivitaives |no HW|
+| $10/26/22$ | Introduction to Intergration |sove the equation in circle area & [plot in Python](https://0xnc3whcit.joplinusercontent.com/shares/lLSg4gslSrT43Z8FhVD5A1)|
 
 
 
